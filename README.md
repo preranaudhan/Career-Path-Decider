@@ -24,9 +24,9 @@ This is a simple career guidance application built in Java that suggests career 
 1. Clone the repository or download the source code.
 2. Navigate to the directory containing the `.java` files.
 3. Compile the Java files using the following command:
-```bash
-javac Main.java Tree.java
-```
+   ```bash
+   javac Main.java Tree.java
+   ```
 4. Run the program using:
    ```bash
    java Main
